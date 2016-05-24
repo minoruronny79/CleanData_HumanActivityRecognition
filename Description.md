@@ -1,4 +1,4 @@
-
+﻿
 DESCRIPTION:
 The script has been written in run_analysis.R. 
 
@@ -15,7 +15,7 @@ Later, I’ve followed the coursera "Getting and cleaning data" instructions
 4) I've changed the names of the variables. for example Accelerometer insted of Acc. I've used the function gsub
 	(Section 4 of run_analysis script). See CODEBOOK
 5)generate a new dataset with all the average measures for each subject and activity type 
- (30 subjects * 6 activities = 180 rows). (Section 4 of run_analysis script)
+ (30 subjects * 6 activities = 180 rows). (Section 5 of run_analysis script)
 
  
 CODEBOOK:
